@@ -1,21 +1,20 @@
 +++
-Description = "On this episode of Arrested DevOps Matt and Trevor are  joined by some of the finest minds in DevOps podcastery - Damon Edwards of DevOps Cafe and Sascha Bates of The Ship Show. The panel addresses some common beliefs on DevOps, and whether these beliefs are true...or just MYTHS."
-aliases = ["/6"]
-author = "Matt"
-categories = []
-date = "2014-02-10T09:56:24-05:00"
-episode = "6"
-friendly = "devops-mythbusters"
-guests = ["dedwards","sbates"]
-images = ["https://www.arresteddevops.com/img/social/fb/devops-mythbusters.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode006.mp3"
-podcast_bytes = "126781303"
-podcast_duration = "1:06:02"
-sponsors = []
-tags = []
 title = "DevOps mythbusters"
+Description = "On this episode of Arrested DevOps Matt and Trevor are  joined by some of the finest minds in DevOps podcastery - Damon Edwards of DevOps Cafe and Sascha Bates of The Ship Show. The panel addresses some common beliefs on DevOps, and whether these beliefs are true...or just MYTHS."
+Date = 2014-02-10T09:56:24-05:00
+PublishDate = 2014-02-10T09:56:24-05:00
+podcast_file = "arrested-devops-podcast-episode006.mp3"
+episode_image = "/episode/img/devops-mythbusters.png"
+episode_banner = "/episode/img/devops-mythbusters-banner.png"
+guests = ["dedwards","sbates",] # The names of your guests, based on the filename without extension.
+sponsors = []
+episode = "6"
+images = ["/img/social/fb/devops-mythbusters.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/6",]
+explicit = "no" # values are "yes" or "no"
 youtube = "haufNRriE70"
+hosts = ["thess","mstratton"]
 
 +++
 <h3>Myths!</h3>
@@ -66,7 +65,6 @@ Developers cannot be trusted.
 </ul>
 <h4>Trevor</h4>
 <ul>
-	<li>Trevor's cat, <a href="https://www.arresteddevops.com/2014/02/10/devops-mythbusters/dax/">Dax</a></li>
 	<li><a href="http://developer.marvel.com/">Marvel Comics API</a></li>
 </ul>
 <h4>Sascha</h4>

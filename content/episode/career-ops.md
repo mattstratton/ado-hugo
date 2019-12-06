@@ -1,23 +1,21 @@
 +++
-Description = "Oh no! You've been laid off. How can you bounce back? Jill Jubinski and Peter Burkholder help guide you through returning to the good fight of gainful employment."
-aliases = ["/66"]
-author = "Matt"
-categories = []
-date = "2016-07-14T13:34:26-05:00"
-episode = "66"
-friendly = "career-ops"
-guests = ["jjubinski2", "pburkholder2"]
-images = ["https://www.arresteddevops.com/img/social/fb/career-ops.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode066.mp3"
-podcast_duration = "1:12:50"
-sponsors = ["10thmagnitude", "hired"]
-tags = []
 title = "CareerOps with Jill Jubinski and Peter Burkholder"
+Description = "Oh no! You've been laid off. How can you bounce back? Jill Jubinski and Peter Burkholder help guide you through returning to the good fight of gainful employment."
+Date = 2016-07-14T13:34:26-05:00
+PublishDate = 2016-07-14T13:34:26-05:00
+podcast_file = "arrested-devops-podcast-episode066.mp3"
+episode_image = "/episode/img/career-ops.png"
+episode_banner = "/episode/img/career-ops-banner.png"
+guests = ["jjubinski2","pburkholder2",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","hired",]
+episode = "66"
+images = ["/img/social/fb/career-ops.png"]
+hosts = ["mstratton", "thess", "bkromhout"] # The names of your hosts, based on the filename without extension.
+aliases = ["/66",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "iZe01eSgba8"
 
 +++
-
 Notes from 2016 DevOps Days DC session on DR for your career: http://e.devopsdaysdc.org/p/openspace-spades-A
 
 
@@ -28,9 +26,8 @@ Severance agreement timelines:
 How to bounce back:
 Let folks know - Mike Fiedler and Annie Hedgpeth had good examples on Twitter recently.
 
-- https://twitter.com/anniehedgie/status/748643963431587840
-- https://twitter.com/mikefiedler/status/739868414324449280
-
+{{< tweet 748643963431587840 >}}
+{{< tweet 739868414324449280 >}}
 
 Use all your networks
 

@@ -1,23 +1,21 @@
 +++
-Description = "Matt and Bridget chat with Tim Gross (Joyent) and Adam Jacob (Chef) about configuration that travels with the application, diving into Habitat and ContainerPilot."
-aliases = ["/69"]
-author = "Bridget"
-categories = []
-date = "2016-08-01T07:55:48-05:00"
-episode = "69"
-friendly = "application-configuration"
-guests = ["tgross", "ajacob"]
-images = ["http://arresteddevops.com/img/social/fb/application-configuration.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode069.mp3"
-podcast_duration = "1:09:12"
-sponsors = []
-tags = []
 title = "Application Configuration with Tim Gross and Adam Jacob"
+Description = "Matt and Bridget chat with Tim Gross (Joyent) and Adam Jacob (Chef) about configuration that travels with the application, diving into Habitat and ContainerPilot."
+Date = 2016-08-01T07:55:48-05:00
+PublishDate = 2016-08-01T07:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode069.mp3"
+episode_image = "/episode/img/application-configuration.png"
+episode_banner = "/episode/img/application-configuration-banner.png"
+guests = ["tgross","ajacob",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","datadog",]
+episode = "69"
+images = ["/img/social/fb/application-configuration.png"]
+hosts = ["mstratton", "bkromhout"] # The names of your hosts, based on the filename without extension.
+aliases = ["/69",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "Nbu8bqJFM1E"
 
 +++
-
 Tim Gross (Joyent) and Adam Jacob (Chef) independently started solving the problem of how to put applications in control of their own configuration. They discuss Habitat and ContainerPilot, to the edification of Matt and Bridget.
 
 
@@ -60,4 +58,3 @@ For any [devopsdays](http://devopsdays.org), try the code ADO2016! It should get
 
 * Bridget - SpringOne Platform in Vegas Aug 1-4
 * Matt - in Chicago. I am boring now. But you should all come see me at DevOpsDays Chicago Aug 30-31...a few tickets left, ADO2016. Plus now with extra Adam!
-
